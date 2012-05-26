@@ -1,0 +1,21 @@
+{
+  "author": "George Stagas <gstagas@gmail.com> (http://stagas.com)",
+  "name": "chronohash",
+  "main": "./chronohash.js",
+  "version": "0.0.1",
+  "dependencies": {
+    "nexttick": "~0.1.0"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  },
+  "description": "Time restricted hashing for passwords",
+  "repository": {
+    "url": "https://github.com/stagas/chronohash"
+  },
+  "scripts": {
+    "test": "node test"
+  }
+}
