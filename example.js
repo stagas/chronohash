@@ -5,7 +5,7 @@ var hash = require('./chronohash')
 // defaults are presented:
 hash.configure({
   algorithm: 'sha1' // hash algorithm
-  secret: 'some secret string' // key to be used for the algorithm hmac
+, secret: 'some secret string' // key to be used for the algorithm hmac
 , saltLength: 256 // salt size
 , min: 10000 // minimum number iterations
 , duration: 300 // each hash will take at least this ms to generate
