@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/stagas/chronohash.png)](http://travis-ci.org/stagas/chronohash)
 # chronohash
 
 Time restricted hashing for passwords
